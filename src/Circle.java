@@ -1,7 +1,7 @@
 public class Circle {
 
     // instance variables
-    private double radius;
+    private final double radius;
 
     // constructor
     public Circle(double rad) {
